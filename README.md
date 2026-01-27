@@ -8,52 +8,6 @@
 # <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc8kFcP1nXQe93YrnVCNDYSjT-Xc19hNai0On1lc9ygQ&s=10" alt="chartjs" width="32" height="32"/> ᴅɪsᴄᴏʀᴅ
 [![Perfil](https://img.shields.io/badge/Meu-Perfil-%235865F2.svg)](https://discord.com/users/1458632297380057316)
 
-<body class="bg-dark d-flex flex-column vh-100" />
-<header class="mb-5">
- <nav class="navbar navbar-dark navbar-expand bg-quarternary">
-  <div class="container-fluid">
-   <h1 class="navbar-brand fw-normal h6 m-0 p-2">Discord Profile Card Generator</h1>
-  </div>
- </nav>
-</header>
-<main class="d-flex flex-column justify-content-center" style="flex: 1;">
- <div class="d-flex flex-column pb-5">
-  <div class="align-self-center" style="min-width: 300px; width: 300px; max-width: 300px">
-   <div id="capture" class="card bg-transparent border-0 rounded-3 overflow-hidden">
-    <div id="card-header" class="card-img rounded-0 position-relative collapse show" style="z-index: 2">
-     <label for="icon-upload" data-size="100x100" class="bg-quarternary border border-quarternary border-5 rounded-circle d-inline-block ms-3 overflow-hidden position-absolute start-0" style="bottom: -50px; height: 100px; width: 100px; z-index: 2"><img id="icon-img" src="https://i.ibb.co/wc1MVXZ/icon-img.jpg" class="h-100 w-100" alt="" /></label>
-     <input type="file" id="icon-upload" class="d-none" />
-     <label for="banner-upload" data-size="600x240" class="bg-quarternary position-relative" style="height: 120px; width: 300px"><img id="banner-img" class="h-100 w-100" src="https://i.ibb.co/q5L20x7/banner-img.jpg" alt="" /></label>
-     <input type="file" id="banner-upload" class="d-none" />
-    </div>
-    <div class="card-body bg-quarternary rounded-0 position-relative" style="padding-top: calc(0.5rem + 50px)">
-     <div class="badge bg-tertiary d-inline-block fw-normal m-3 p-2 position-absolute top-0 end-0">
-      <div contenteditable class="d-inline-block contenteditable-plain">Username</div>#<div contenteditable class="d-inline-block contenteditable-plain">ID</div>
-     </div>
-     <div contenteditable class="card-title h5 text-white custom-font mb-0 contenteditable-plain">Nickname</div>
-     <div id="alias" class="card-subtitle h6 text-light collapse show">aka "<div contenteditable class="d-inline-block contenteditable-plain">Alias</div>"</div>
-     <div contenteditable id="quote" class="card-text text-light fs-7 mt-2 contenteditable-plain collapse show">
-      About me text goes here.</div>
-    </div>
-   </div>
-   <div id="capture-btn-group" class="btn-group dropup d-flex my-1" role="group">
-    <button id="capture-btn" type="button" class="btn btn-secondary rounded-start-3 flex-grow-1">Capture</button>
-    <button id="settings-btn" type="button" class="btn btn-secondary dropdown-toggle dropdown-toggle-split rounded-end-3" data-bs-toggle="dropdown" aria-expanded="false" style="flex: 0"></button>
-    <ul class="dropdown-menu dropdown-menu-dark dropdown-menu-end" aria-labelledby="settings-btn">
-     <li><a class="dropdown-item" data-bs-toggle="collapse" href="#alias" role="button" aria-expanded="true" aria-controls="alias">Alias</a></li>
-     <li><a class="dropdown-item" data-bs-toggle="collapse" href="#card-header" role="button" aria-expanded="true" aria-controls="alias">Images</a></li>
-     <li><a class="dropdown-item" data-bs-toggle="collapse" href="#quote" role="button" aria-expanded="true" aria-controls="quote">Quote</a></li>
-    </ul>
-   </div>
-  </div>
- </div>
-</main>
-<footer>
- <div id="footer" class="d-flex justify-content-center">
-  <p class="text-light d-inline-block m-0 px-3 py-4 text-center">This website was designed by <a href="https://codepen.io/h3k8e" target="_blank" title="Hekate">Hekate</a> and is licensed under a Creative Commons <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" title="Attribution-NonCommercial-No Derivatives 4.0 International">BY-NC-ND 4.0 International License</a>.</p>
- </div>
-</footer>
-
 # <img src= "https://upload.wikimedia.org/wikipedia/commons/9/98/SupermercadoDB-Logo.png" alt="chartjs" width="32" height="32"> ᴅᴀᴛᴀʙᴀsᴇs
 
 <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">&nbsp;
